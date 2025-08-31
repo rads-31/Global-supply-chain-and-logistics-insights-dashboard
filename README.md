@@ -24,4 +24,4 @@ The dashboard was built using
        5.
 
 5.Screenshots:
-   The dashboard looks like -
+   The dashboard looks like - https://github.com/rads-31/Global-supply-chain-and-logistics-insights-dashboard/blob/main/Logistics%20overview%20dashboard.png
