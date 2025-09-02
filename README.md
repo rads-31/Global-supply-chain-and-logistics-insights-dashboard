@@ -26,7 +26,7 @@ E)File Format - .pbix for development and .png for dashboard previews.
        5.Which countries or markets experience the most shipping delays or incur the highest logistics costs?
        
     B.Business Objectives :
-       1.
+       1.Track and analyze   
        2.
        3.
        4.
