@@ -26,11 +26,11 @@ E)File Format - .pbix for development and .png for dashboard previews.
        5.Which countries or markets experience the most shipping delays or incur the highest logistics costs?
        
     B.Business Objectives :
-       1.Track and analyze   
-       2.
-       3.
-       4.
-       5.
+       1.Track and analyze shipping cost and delivery timelines across countries and markets.
+       2.Identify shipping modes that cause delivery delays or incur high costs.
+       3.Monitor on-time vs. delayed shipments across customer segments.
+       4.Benchmark logistics performance by region and shipping priority.
+       5.Provide insights for optimizing shipping strategies and reducing operational expenses.
 
 5.Screenshots:
    The dashboard looks like - https://github.com/rads-31/Global-supply-chain-and-logistics-insights-dashboard/blob/main/Logistics%20overview%20dashboard.png
